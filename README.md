@@ -5,7 +5,7 @@
 🔧 Current Explorations: Diving deep into Java, Python, C, mql4, mql5 and the magic of Flutter to craft modern, cross-platform applications.
 🌍 Collaboration Goals: Partnering on real-world projects that inspire change and challenge the status quo.
 💡 Interests: Software development, fintech, AI, Forex bots and building tools that make lives easier.
-📬 Reach Out: Let’s brainstorm, innovate, and build together. Drop me a line anytime!
+📬 Reach Out: Let’s brainstorm, innovate, and build together. Drop me a line anytime!>> fiifiandy000@gmail.com 
 
 <!---
 HERO-FIIFI/HERO-FIIFI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

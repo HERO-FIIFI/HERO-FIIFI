@@ -34,30 +34,6 @@ reconciliation systems to developing AI-assisted audit and automation platforms.
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-`Python` · `Java` · `C#` · `JavaScript` · `TypeScript` · `SQL`
-
-**Backend & Web**
-
-`Spring Boot` · `Fastify` · `React` · `REST APIs` · `PostgreSQL` · `MySQL`
-
-**AI**
-
-`LLMs` · `RAG` · `AI Agents` · `Qwen` · `LangChain` · `Ollama` · `LM Studio` · `MCP`
-
-**DevOps & Infrastructure**
-
-`Docker` · `Docker Compose` · `Linux` · `RHEL` · `Nginx` · `Git`
-
-**Data & Automation**
-
-`Power BI` · `Power Automate` · `Power Apps` · `ETL` · `Data Analytics`
-
----
-
 ## 🧠 Areas I'm Focused On
 
 - AI Engineering & Agentic Systems

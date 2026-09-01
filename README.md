@@ -9,30 +9,7 @@ My background spans **software engineering, fintech, AI engineering, data
 analytics, and audit technology** — from building banking APIs and
 reconciliation systems to developing AI-assisted audit and automation platforms.
 
----
-
-## 🚀 What I'm Building
-
-🤖 **AI & Agent Systems**
-- LLM-powered applications and AI agents
-- Retrieval-Augmented Generation (RAG)
-- Local LLM deployment with Ollama & LM Studio
-- Human-in-the-loop AI workflows
-- Model Context Protocol (MCP)
-
-⚙️ **Enterprise Automation**
-- Audit and risk automation platforms
-- Workflow digitization
-- Continuous monitoring and control testing
-- Evidence processing and document intelligence
-
-💻 **Software Engineering**
-- Backend APIs and enterprise integrations
-- Full-stack web applications
-- Authentication, RBAC and secure system design
-- Containerized application deployment
-
----
+## 🚀---
 
 ## 🧠 Areas I'm Focused On
 
@@ -45,7 +22,6 @@ reconciliation systems to developing AI-assisted audit and automation platforms.
 - DevOps & Local AI Infrastructure
 
 ---
-
 ## 🤝 Collaboration
 
 I'm interested in collaborating on:
